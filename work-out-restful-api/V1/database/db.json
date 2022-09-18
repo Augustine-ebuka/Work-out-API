@@ -1,0 +1,79 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "tommy V",
+      "mode": "for time",
+      "equipment": [
+        "barbel",
+        "rope"
+      ],
+      "excercise": [
+        "21 thrusters climbs",
+        "12 rope climb, 15 ft",
+        "9 rope climbs",
+        "9 thrusres"
+      ],
+      "createdAt": "4/20/2022, 2:21:56",
+      "updatedAt": "4/20/2022, 2:21:56",
+      "trainerTips": []
+    },
+    {
+      "id": 2,
+      "name": "Dead push ups",
+      "mode": "AMRAP 10",
+      "equipment": [
+        "barbel"
+      ],
+      "excercise": [],
+      "createdAt": "4/20/2022, 2:21:56",
+      "updatedAt": "4/20/2022, 2:21:56",
+      "trainerTips": []
+    },
+    {
+      "id": 3,
+      "name": "tommy V",
+      "mode": "for time",
+      "equipment": [
+        "barbel",
+        "rope"
+      ],
+      "excercise": [
+        "15 deadlifts",
+        "15 hand-reales push-up"
+      ],
+      "createdAt": "4/20/2022, 2:21:56",
+      "updatedAt": "4/20/2022, 2:21:56",
+      "trainerTips": [
+        "dont eat too much",
+        "excersice everyday"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "tommy V",
+      "mode": "for time",
+      "equipment": [
+        "barbel",
+        "rope"
+      ],
+      "excercise": [],
+      "createdAt": "4/20/2022, 2:21:56",
+      "updatedAt": "4/20/2022, 2:21:56",
+      "trainerTips": []
+    },
+    {
+      "id": 5,
+      "name": "Push-up",
+      "mode": "for Belly developement",
+      "equipment": [
+        "mat",
+        "rope"
+      ],
+      "excercise": [],
+      "createdAt": "4/20/2022, 2:21:56",
+      "updatedAt": "4/20/2022, 2:21:56",
+      "trainerTips": []
+    }
+  ]
+}
